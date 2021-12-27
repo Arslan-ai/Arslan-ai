@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arslan-ai
 - 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Python,SQL Statistics and other tools 
+- 🌱 I’m currently learning Python,SQL Statistics and participate in VBO
 -
 - 📫 You can reach me on linked.in === > https://www.linkedin.com/in/arslan-tosun-063415102/
 
