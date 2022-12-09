@@ -1,6 +1,6 @@
 
 
-- 🌱 I’m currently learning Python,SQL Statistics and participate in VBO
+- 🌱 I’m Arslan
 - Medium: @muhammetarslantosun
 - 📫 Mail: muhammetarslantosun@gmail.com
 - LinkedIn: @muhammetarslantosun
